@@ -1,0 +1,14 @@
+ We have our project titled "Live Weather Forecasting”.
+
+So the main feature of our project is that, it not only shows about the Temperature but also about sunrise, sunset, humidity, wind speed of any city we want !
+
+Also it shows weather the environment is clear or smoke. In case of environment being polluted or smoky, then this app becomes very useful for asthama patients and also other patients suffering from respiratory diseases, so that they will not travel and they will stay safe at home. And also some people have curosity to know about weather conditions in their city, and for them it is very useful
+And they will Surely enjoy it. And also our app shows sunrise and sunset of city which we are interested to know, and hence while travelling to a City which is famous for Beautiful Sunset, the tourists can know about the sunset by the help of this app and can visit at that specific sunrise/sunset time and enjoy the scenery
+Talking about the code, we had used the modules like tkinter, requests and time.  Tkinter it comes with all the modules defined in Tkinter.  Import Requests allows you to send HTTP requests using python. Import Time is used to handle Time Related Activites. 
+le  
+
+Group Members:
+Prajwal Pramod Pataki(19UET028)
+Prathmesh Rajaram Patil(19UET029)
+Suraj Sunil Rajmane(19UET037)
+
