@@ -1,0 +1,15 @@
+Project Description
+
+Text to speech is a process to convert any text into voice. Text to speech
+project takes words on digital devices and convert them into audio with a button
+click or finger touch. Text to speech python project is very helpful for people who
+are struggling with reading.
+We have successfully developed the text to speech python project. We
+used the popular tkinter library for rendering graphics on a display window,
+pyttsx3 library to convert text to voice, and play that converter voice from the text.
+
+Mini project on text to speech converter
+By
+Aishwarya Naik - 19UET025
+Aparna Ringane -19UET038
+Sakshi Rokade - 19UET039
